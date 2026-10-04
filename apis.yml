@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oblix-inc.png
-name: Oblix Inc.
+name: Oblix
 description: Oblix Inc. is a company surfaced as a portfolio company of 500-global and added to the API
   Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/oblix-inc/refs/heads/main/apis.yml
@@ -53,3 +53,4 @@ common:
   url: security/oblix-inc-domain-security.yml
 - type: Website
   url: https://oblixsecurity.com
+x-legal-name: Oblix Inc.
